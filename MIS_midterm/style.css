@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #f1fff0;
+}
+
+#showcase h1 {
+    font-weight: bold;
+}
+
+#showcase {
+    background-color: #f1fff0;
+}
+
+.cimg {
+    width: 5rem;
+    height: 7rem;
+    margin: 2rem;
+}
+
+.card {
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
+
+.card span img {
+    width: 8%;
+    height: 8%;
+}
+
+.card {
+    border: 1px solid white;
+    border-radius: 3%;
+    box-shadow: 0 0 5px darkgray
+}
+
+.c1 {
+    background-color: #f1fff0;
+}
+
+.container .card:hover {
+    background-color: white;
+}
+
+.container .card h3 {
+    color: purple;
+}
